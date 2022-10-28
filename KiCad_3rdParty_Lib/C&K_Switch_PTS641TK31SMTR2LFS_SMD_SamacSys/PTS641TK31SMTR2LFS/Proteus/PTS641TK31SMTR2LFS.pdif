@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PTS641TK31SMTR2LFS"
+   (description "Tactile Switches 50mA 250VAC, 250gf Grnd Pin, 3.1mm Hght")
+   (family "SWI")
+   (package "PTS641TK31SMTR2LFS")
+   (attribute "Datasheet Link" "https://ru.mouser.com/datasheet/2/60/pts641-1382639.pdf")
+   (attribute "Geometry.Height" "3.1mm")
+   (attribute "Manufacturer_Name" "C & K COMPONENTS")
+   (attribute "Manufacturer_Part_Number" "PTS641TK31SMTR2LFS")
+   (attribute "Mouser Part Number" "611-PTS641TK31SMTR2")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PTS641TK31SMTR2LFS?qs=%252B1mt6%252Bz2kvx0Ym6FlfvoiA%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "PTS641TK31SMTR2LFS")
+    (pin "COM_1" 1 PS)
+    (pin "COM_2" 2 PS)
+    (pin "NO_1" 3 PS)
+    (pin "NO_2" 4 PS)
+    (pin "GND" 5 PS)
+   )
+  )
+  (symbol "PTS641TK31SMTR2LFS"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "PTS641TK31SMTR2LFS"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.15 -3.2)
+      (pt 3.15 -3.2)
+      (pt 3.15 3.2)
+      (pt -3.15 3.2)
+      (pt -3.15 -3.2))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.85 4.2)
+      (pt 5.85 4.2)
+      (pt 5.85 -4.2)
+      (pt -5.85 -4.2)
+      (pt -5.85 4.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.15 -3.2)
+      (pt 3.15 -3.2)
+      (pt 3.15 3.2)
+      (pt -3.15 3.2)
+      (pt -3.15 -3.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.4 2.25)
+      (arc (pt -5.400 2.250) (pt -5.600 2.150) (pt -5.400 2.350) (start 180.0) (sweep .0))
+      (pt -5.6 2.25)
+      (arc (pt -5.600 2.250) (pt -5.600 2.150) (pt -5.400 2.350) (start 180.0) (sweep 180.0))
+      (pt -5.4 2.25)
+      (arc (pt -5.400 2.250) (pt -5.600 2.150) (pt -5.400 2.350) (start 180.0) (sweep .0))
+      (pt -5.6 2.25))))
+   (leg 1 (pt -4.200 2.250) (padstack 0))
+   (leg 2 (pt 4.200 2.250) (padstack 0))
+   (leg 3 (pt -4.200 -2.250) (padstack 0))
+   (leg 4 (pt 4.200 -2.250) (padstack 0))
+   (leg 5 (pt -4.200 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 1.300 0 0 0.000))
+   )
+  )
+ )
+)

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PTS641TK31SMTR2LFS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-27-18:04:52)
+    (mountForm default
+        (footprintRef "PTS641TK31SMTR2LFS")
+        (spec "System")
+    )
+)

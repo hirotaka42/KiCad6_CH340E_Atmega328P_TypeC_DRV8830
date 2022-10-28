@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MF-FSMF035X-2
+D PTC Resettable Fuse 0.35A(hold) 0.75A(trip) 6V 40A 0.5W 0.1s 0.2Ohm SMD Solder Pad 0603 T/R Automotive
+K
+F https://www.arrow.com/en/products/mf-fsmf035x-2/bourns
+$ENDCMP
+#
+#End Doc Library

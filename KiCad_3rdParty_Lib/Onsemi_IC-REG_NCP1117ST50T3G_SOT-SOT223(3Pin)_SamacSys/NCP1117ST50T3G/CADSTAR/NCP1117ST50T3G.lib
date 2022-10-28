@@ -1,0 +1,20 @@
+.NCP1117ST50T3G :1 ;ON SEMICONDUCTOR - NCP1117ST50T3G - LDO, REG, 20VIN, 1A, 5V, 1%, SOT223-3
+SOT230P700X180-4N
+*STM IC
+*NGS
+*PLB 1="ADJUST/GROUND" 2="OUTPUT_1" 3="INPUT" 4="OUTPUT_2"
+*MXP 4
+*DFN NCP1117ST50T3G
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NCP1117ST50T3G)
+~!Mouser Part Number (863-NCP1117ST50T3G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NCP1117ST50T3G?qs=Gev%252BmEvV0ib6dijy6U0dhQ%3D%3D)
+~!Arrow Part Number (NCP1117ST50T3G)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ncp1117st50t3g/on-semiconductor?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF)
+~!Height (1.8mm)
+~!3D_Model (NCP1117ST50T3G)
+NCP1117ST50T3G
+1.1!U 2.1!U 3.1!U 4.1!U 

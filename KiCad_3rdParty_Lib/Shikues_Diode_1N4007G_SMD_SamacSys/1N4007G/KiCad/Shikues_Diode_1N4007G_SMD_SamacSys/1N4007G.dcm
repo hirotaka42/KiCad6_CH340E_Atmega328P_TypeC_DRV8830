@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4007G
+D Surface Mount General Purpose Silicon Rectifiers
+K
+F https://datasheet.lcsc.com/szlcsc/SK-1N4007G_C111122.pdf
+$ENDCMP
+#
+#End Doc Library

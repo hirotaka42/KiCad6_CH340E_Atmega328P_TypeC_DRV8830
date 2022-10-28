@@ -1,0 +1,20 @@
+.1N4007G :1 ;Surface Mount General Purpose Silicon Rectifiers
+DIOM5025X220N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N4007G
+~!Manufacturer_Name (Shikues)
+~!Manufacturer_Part_Number (1N4007G)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/SK-1N4007G_C111122.pdf)
+~!Height (2.2mm)
+~!3D_Model (1N4007G)
+"1N4007G"
+1.1!U 2.1!U 
