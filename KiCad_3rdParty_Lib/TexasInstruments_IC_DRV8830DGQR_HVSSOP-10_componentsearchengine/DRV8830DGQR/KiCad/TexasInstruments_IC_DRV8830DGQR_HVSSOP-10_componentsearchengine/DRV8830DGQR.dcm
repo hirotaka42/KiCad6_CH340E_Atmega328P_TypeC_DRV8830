@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8830DGQR
+D DRV8830DGQR, Motor Driver, 1A Low Voltage Motor Driver, 2.75 to 6.8V, 10-Pin MSOP PowerPAD
+K
+F http://www.ti.com/lit/ds/symlink/drv8830.pdf
+$ENDCMP
+#
+#End Doc Library

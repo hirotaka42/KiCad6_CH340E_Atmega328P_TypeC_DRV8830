@@ -1,0 +1,20 @@
+.MF-MSMF050-2 :1 ;Fuse, PTC, Resettable, SMD, 1812, 500mA Bourns 0.5A Surface Mount Resettable Fuse, 15 V
+FUSC4632X85N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MF-MSMF050-2
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (MF-MSMF050-2)
+~!Mouser Part Number (652-MF-MSMF050-2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/MF-MSMF050-2?qs=t3shhpq1i1DZ7OBD5kLNoA%3D%3D)
+~!Arrow Part Number (MF-MSMF050-2)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mf-msmf050-2/bourns?region=europe)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.bourns.com/pdfs/mfmsmf.pdf)
+~!Height (-)
+~!3D_Model (MF-MSMF050-2)
+MF-MSMF050-2
+1.1!U 2.1!U 

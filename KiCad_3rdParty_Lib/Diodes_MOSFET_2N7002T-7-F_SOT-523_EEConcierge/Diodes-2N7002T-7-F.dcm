@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002T-7-F
+D 2N7002T-7-F
+F https://www.diodes.com/assets/Datasheets/ds30301.pdf
+$ENDCMP
+# end doc library

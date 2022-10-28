@@ -1,0 +1,20 @@
+.DRV8830DGQR :1 ;DRV8830DGQR, Motor Driver, 1A Low Voltage Motor Driver, 2.75 to 6.8V, 10-Pin MSOP PowerPAD
+SOP50P490X110-11N
+*STM IC
+*NGS
+*PLB 1="OUT2" 2="ISENSE" 3="OUT1" 4="VCC" 5="GND_1" 6="FAULTN" 7="A0" 8="A1" 9="SDA" 10="SCL" 11="GND_2"
+*MXP 11
+*DFN DRV8830DGQR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV8830DGQR)
+~!Mouser Part Number (595-DRV8830DGQR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8830DGQR?qs=O1HRStiETCg6%2F8Csne%2FSsw%3D%3D)
+~!Arrow Part Number (DRV8830DGQR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/drv8830dgqr/texas-instruments)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/drv8830.pdf)
+~!Height (1.1mm)
+~!3D_Model (DRV8830DGQR)
+DRV8830DGQR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 
