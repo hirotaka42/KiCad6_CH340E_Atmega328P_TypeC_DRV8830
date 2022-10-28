@@ -1,0 +1,1 @@
+# KiCad6_CH340E_Atmega328P_TypeC_DRV8830
