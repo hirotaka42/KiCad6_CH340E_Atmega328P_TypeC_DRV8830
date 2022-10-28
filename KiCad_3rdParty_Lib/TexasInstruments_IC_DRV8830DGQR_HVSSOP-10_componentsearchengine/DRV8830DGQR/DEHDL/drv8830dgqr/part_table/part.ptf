@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8830DGQR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8830DGQR" (!) = "", "SOP50P490X110-11N", "Small Outline Packages", "595-DRV8830DGQR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8830DGQR?qs=O1HRStiETCg6%2F8Csne%2FSsw%3D%3D", "DRV8830DGQR", "https://www.arrow.com/en/products/drv8830dgqr/texas-instruments", "", "", "DRV8830DGQR, Motor Driver, 1A Low Voltage Motor Driver, 2.75 to 6.8V, 10-Pin MSOP PowerPAD", "http://www.ti.com/lit/ds/symlink/drv8830.pdf", "1.1 mm"
+END_PART
+
+END.

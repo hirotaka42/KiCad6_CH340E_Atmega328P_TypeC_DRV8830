@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8830DGQR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=11
+Version=5.1
+Released=2015-05-20 08:55:11
+Downloaded=2022-10-27 12:04:01
+3D=Y
