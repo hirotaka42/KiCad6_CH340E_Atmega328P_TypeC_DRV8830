@@ -1,0 +1,20 @@
+.MF-FSMF035X-2 :1 ;PTC Resettable Fuse 0.35A(hold) 0.75A(trip) 6V 40A 0.5W 0.1s 0.2Ohm SMD Solder Pad 0603 T/R Automotive
+FUSC1608X65N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MF-FSMF035X-2
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (MF-FSMF035X-2)
+~!Mouser Part Number (652-MFFSMF035X-2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/MF-FSMF035X-2?qs=3QkGRBNOvbpDjaNFd4LZ8w%3D%3D)
+~!Arrow Part Number (MF-FSMF035X-2)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mf-fsmf035x-2/bourns?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.arrow.com/en/products/mf-fsmf035x-2/bourns)
+~!Height (0.65mm)
+~!3D_Model (MF-FSMF035X-2)
+MF-FSMF035X-2
+1.1!U 2.1!U 

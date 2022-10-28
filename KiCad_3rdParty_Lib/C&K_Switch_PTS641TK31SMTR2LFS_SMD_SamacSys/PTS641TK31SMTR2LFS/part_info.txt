@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=PTS641TK31SMTR2LFS
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=1.2
+Released=2021-04-27 18:04:52
+Downloaded=2022-10-28 14:18:38
+3D=N

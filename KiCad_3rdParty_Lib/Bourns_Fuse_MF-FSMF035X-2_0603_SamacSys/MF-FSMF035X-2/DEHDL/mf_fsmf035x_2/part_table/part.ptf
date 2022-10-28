@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MF_FSMF035X_2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "MF-FSMF035X-2" (!) = "", "FUSC1608X65N", "Fuses Chip", "652-MFFSMF035X-2", "https://www.mouser.co.uk/ProductDetail/Bourns/MF-FSMF035X-2?qs=3QkGRBNOvbpDjaNFd4LZ8w%3D%3D", "MF-FSMF035X-2", "https://www.arrow.com/en/products/mf-fsmf035x-2/bourns?region=nac", "", "", "PTC Resettable Fuse 0.35A(hold) 0.75A(trip) 6V 40A 0.5W 0.1s 0.2Ohm SMD Solder Pad 0603 T/R Automotive", "https://www.arrow.com/en/products/mf-fsmf035x-2/bourns", "0.65 mm"
+END_PART
+
+END.

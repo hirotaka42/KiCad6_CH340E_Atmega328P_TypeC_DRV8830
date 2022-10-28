@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM18PG471SN1D
+D 0603 Ferrite Bead,470R,25%,1A,R2
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+#End Doc Library

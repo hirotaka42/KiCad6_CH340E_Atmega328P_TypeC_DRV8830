@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NCP1117ST50T3G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "NCP1117ST50T3G" (!) = "", "SOT230P700X180-4N", "SOT223 (3-Pin)", "863-NCP1117ST50T3G", "https://www.mouser.co.uk/ProductDetail/onsemi/NCP1117ST50T3G?qs=Gev%252BmEvV0ib6dijy6U0dhQ%3D%3D", "NCP1117ST50T3G", "https://www.arrow.com/en/products/ncp1117st50t3g/on-semiconductor?region=nac", "", "", "ON SEMICONDUCTOR - NCP1117ST50T3G - LDO, REG, 20VIN, 1A, 5V, 1%, SOT223-3", "http://www.onsemi.com/pub/Collateral/NCP1117-D.PDF", "1.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1N4007G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-23-16:34:52)
+    (mountForm default
+        (footprintRef "DIOM5025X220N")
+        (spec "System")
+    )
+)

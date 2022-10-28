@@ -1,0 +1,19 @@
+.PTS641TK31SMTR2LFS :1 ;Tactile Switches 50mA 250VAC, 250gf Grnd Pin, 3.1mm Hght
+PTS641TK31SMTR2LFS
+*STM S
+*NGS
+*PLB 1="COM_1" 2="COM_2" 3="NO_1" 4="NO_2" 5="GND"
+*MXP 5
+*DFN PTS641TK31SMTR2LFS
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (PTS641TK31SMTR2LFS)
+~!Mouser Part Number (611-PTS641TK31SMTR2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CK/PTS641TK31SMTR2LFS?qs=%252B1mt6%252Bz2kvx0Ym6FlfvoiA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://ru.mouser.com/datasheet/2/60/pts641-1382639.pdf)
+~!Height (3.1mm)
+PTS641TK31SMTR2LFS
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
