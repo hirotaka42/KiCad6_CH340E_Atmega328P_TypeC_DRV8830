@@ -1,0 +1,20 @@
+.RS2MBF :1 ;Diodes - Rectifiers - Fast Recovery 1kV 2A 1.3V @ 2A 500ns SMBF RoHS
+SODFL5336X130N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN RS2MBF
+~!Manufacturer_Name (MDD)
+~!Manufacturer_Part_Number (RS2MBF)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/MDD-Jiangsu-Yutai-Elec-RS2MBF_C113944.pdf)
+~!Height (1.3mm)
+~!3D_Model (RS2MBF)
+RS2MBF
+1.1!U 2.1!U 

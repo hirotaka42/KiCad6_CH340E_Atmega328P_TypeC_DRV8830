@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=TPSD227M016R0200V
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Moulded Polarised
+PinCount=2
+Version=1.1
+Released=2020-06-18 10:03:51
+Downloaded=2022-10-29 09:38:05
+3D=Y

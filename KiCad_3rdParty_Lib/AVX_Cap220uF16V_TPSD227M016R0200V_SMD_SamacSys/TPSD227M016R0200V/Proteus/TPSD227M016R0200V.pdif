@@ -1,0 +1,129 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TPSD227M016R0200V"
+   (description "Cap Tant Solid 220uF 16V D CASE 20% (7.3 X 4.3 X 2.9mm) Inward L SMD 7343-31 0.2 Ohm 125C T/R")
+   (family "CAP")
+   (package "CAPPM7344X310N")
+   (attribute "Datasheet Link" "https://www.arrow.com/en/products/tpsd227m016r0200v/avx")
+   (attribute "Geometry.Height" "3.1mm")
+   (attribute "Manufacturer_Name" "AVX")
+   (attribute "Manufacturer_Part_Number" "TPSD227M016R0200V")
+   (attribute "Mouser Part Number" "581-TPSD227M016R200V")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/AVX/TPSD227M016R0200V?qs=gTYE2QTfZfTvWYg4wQxf2A%3D%3D")
+   (attribute "Arrow Part Number" "TPSD227M016R0200V")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/tpsd227m016r0200v/avx")
+   (attribute "Mouser Testing Part Number" "")
+   (attribute "Mouser Testing Price/Stock" "")
+   (gate
+    (symbol "TPSD227M016R0200V")
+    (pin "+" 1 PS)
+    (pin "-" 2 PS)
+   )
+  )
+  (symbol "TPSD227M016R0200V"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100) (pt 230 -100) (pt 230 100) (pt 200 100) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 180 50) (pt 140 50))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 160 70) (pt 160 30))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 300 0) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 300 100) (pt 300 -100) (pt 270 -100) (pt 270 100) (pt 300 100))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPPM7344X310N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.5 2.5)
+      (pt 4.5 2.5)
+      (pt 4.5 -2.5)
+      (pt -4.5 -2.5)
+      (pt -4.5 2.5))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.65 2.175)
+      (pt 3.65 2.175)
+      (pt 3.65 -2.175)
+      (pt -3.65 -2.175)
+      (pt -3.65 2.175))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.65 1.025)
+      (pt -2.5 2.175))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 3.65 2.175)
+      (pt -4.25 2.175))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.65 -2.175)
+      (pt 3.65 -2.175))))
+   (leg 1 (pt -3.1 0) (padstack 0))
+   (leg 2 (pt 3.1 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.3 2.5 0 0 90))
+   )
+   (model "TPSD227M016R0200V.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

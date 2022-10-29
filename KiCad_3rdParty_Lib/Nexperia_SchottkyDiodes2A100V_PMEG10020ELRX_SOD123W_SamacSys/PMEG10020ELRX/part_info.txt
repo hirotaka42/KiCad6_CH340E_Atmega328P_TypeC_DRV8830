@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PMEG10020ELRX
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=8.1
+Released=2019-03-18 06:36:54
+Downloaded=2022-10-29 12:26:37
+3D=Y

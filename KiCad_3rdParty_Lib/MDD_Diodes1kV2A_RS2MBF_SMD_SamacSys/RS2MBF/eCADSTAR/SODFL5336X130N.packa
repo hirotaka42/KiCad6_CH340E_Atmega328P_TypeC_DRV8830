@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RS2MBF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-15-11:22:31)
+    (mountForm default
+        (footprintRef "SODFL5336X130N")
+        (spec "System")
+    )
+)

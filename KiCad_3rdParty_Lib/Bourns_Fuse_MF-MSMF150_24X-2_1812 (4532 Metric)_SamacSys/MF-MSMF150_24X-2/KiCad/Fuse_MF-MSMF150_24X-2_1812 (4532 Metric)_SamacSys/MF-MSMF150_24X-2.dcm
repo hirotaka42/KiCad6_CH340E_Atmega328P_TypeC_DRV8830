@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MF-MSMF150_24X-2
+D Bourns 1.5A Surface Mount Resettable Fuse, 24 V
+K
+F https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf
+$ENDCMP
+#
+#End Doc Library

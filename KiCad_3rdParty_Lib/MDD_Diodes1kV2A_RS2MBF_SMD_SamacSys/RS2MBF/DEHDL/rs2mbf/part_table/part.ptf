@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RS2MBF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MDD", "RS2MBF" (!) = "", "SODFL5336X130N", "Small Outline Diode Flat Lead", "", "", "", "", "", "", "Diodes - Rectifiers - Fast Recovery 1kV 2A 1.3V @ 2A 500ns SMBF RoHS", "https://datasheet.lcsc.com/szlcsc/MDD-Jiangsu-Yutai-Elec-RS2MBF_C113944.pdf", "1.3 mm"
+END_PART
+
+END.

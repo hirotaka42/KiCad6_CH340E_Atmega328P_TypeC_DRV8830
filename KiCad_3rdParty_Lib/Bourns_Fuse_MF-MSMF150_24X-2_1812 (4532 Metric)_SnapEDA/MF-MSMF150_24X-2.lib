@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MF-MSMF150/24X-2
+#
+DEF MF-MSMF150/24X-2 F 0 40 N N 1 L N
+F0 "F" -100 200 50 H V L BNN
+F1 "MF-MSMF150/24X-2" -100 -200 50 H V L BNN
+F2 "FUSER_MF-MSMF150/24X-2" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "https://snapeda.com/shop?store=DigiKey&id=143366" 0 0 50 H I L BNN "DIGIKEY-PURCHASE-URL"
+F5 "Bourns" 0 0 50 H I L BNN "MF"
+F6 "https://snapeda.com/shop?store=Arrow+Electronics&id=143366" 0 0 50 H I L BNN "ARROW_ELECTRONICS-PURCHASE-URL"
+F7 "1812 Bourns" 0 0 50 H I L BNN "PACKAGE"
+F8 "Polymeric PTC Resettable Fuse 8V 2A Ih Surface Mount 1812 (4532 Metric), Concave" 0 0 50 H I L BNN "DESCRIPTION"
+F9 "MF-MSMF200-2" 0 0 50 H I L BNN "MP"
+F10 "None" 0 0 50 H I L BNN "PRICE"
+F11 "https://snapeda.com/shop?store=Mouser&id=143366" 0 0 50 H I L BNN "MOUSER-PURCHASE-URL"
+F12 "Good" 0 0 50 H I L BNN "AVAILABILITY"
+DRAW
+A -75 0 75 -1 1800 0 0 6 N -150 0 0 0
+A 75 0 75 1800 3599 0 0 6 N 0 0 150 0
+P 2 0 0 6 200 0 150 0 N
+P 2 0 0 6 -200 0 -150 0 N
+X ~ 2 300 0 100 L 40 40 0 0 P 
+X ~ 1 -300 0 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

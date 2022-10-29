@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_828363"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-08-16:40:31)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MF-MSMF150_24X-2")
+)
+
+
+(pinAssign "ECS_828363"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-08-16:40:31)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_828363")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MF-MSMF150_24X-2")
+)
+
+
+(part "MF-MSMF150_24X-2"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-08-16:40:31)
+    (utime 2018-06-06-11:10:46)
+    (packageRef "MF-MSMF150_24X-2")
+    (pinAssignRef "ECS_828363")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "Bourns 1.5A Surface Mount Resettable Fuse, 24 V")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "MF-MSMF150/24X-2")
+    (property "Mouser_Part_Number" "652-MF-MSMF150/24X-2")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/MF-MSMF150-24X-2?qs=lpAV6hZbGAs42fzz5zPn3Q%3D%3D")
+    (property "Arrow_Part_Number" "MF-MSMF150/24X-2")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/mf-msmf15024x-2/bourns")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf")
+    (property "compAreaTopHeight" 1.6)
+)
+
+

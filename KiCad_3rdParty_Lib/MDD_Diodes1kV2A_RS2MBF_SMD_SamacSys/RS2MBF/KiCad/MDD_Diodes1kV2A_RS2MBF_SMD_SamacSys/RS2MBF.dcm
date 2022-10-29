@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RS2MBF
+D Diodes - Rectifiers - Fast Recovery 1kV 2A 1.3V @ 2A 500ns SMBF RoHS
+K
+F https://datasheet.lcsc.com/szlcsc/MDD-Jiangsu-Yutai-Elec-RS2MBF_C113944.pdf
+$ENDCMP
+#
+#End Doc Library
