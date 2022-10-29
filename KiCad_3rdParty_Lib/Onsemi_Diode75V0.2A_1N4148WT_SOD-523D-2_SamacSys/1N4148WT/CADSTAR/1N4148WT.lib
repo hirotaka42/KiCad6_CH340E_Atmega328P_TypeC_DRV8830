@@ -1,0 +1,20 @@
+.1N4148WT :1 ;ON SEMICONDUCTOR - 1N4148WT - DIODE, SWITCHING, 75V, SOD-523F-2
+SODFL1608X70N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N4148WT
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (1N4148WT)
+~!Mouser Part Number (512-1N4148WT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/1N4148WT?qs=2%2FYqgE%252BHg%252BJTXBWnIBbu3Q%3D%3D)
+~!Arrow Part Number (1N4148WT)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1n4148wt/on-semiconductor?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/1N4148WT.pdf)
+~!Height (0.7mm)
+~!3D_Model (1N4148WT)
+"1N4148WT"
+1.1!U 2.1!U 

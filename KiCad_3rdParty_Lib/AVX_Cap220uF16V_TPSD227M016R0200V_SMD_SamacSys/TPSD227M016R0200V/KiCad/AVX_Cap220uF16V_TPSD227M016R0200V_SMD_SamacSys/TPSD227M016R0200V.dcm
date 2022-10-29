@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPSD227M016R0200V
+D Cap Tant Solid 220uF 16V D CASE 20% (7.3 X 4.3 X 2.9mm) Inward L SMD 7343-31 0.2 Ohm 125C T/R
+K
+F https://www.arrow.com/en/products/tpsd227m016r0200v/avx
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,20 @@
+.MF-MSMF150_24X-2 :1 ;Bourns 1.5A Surface Mount Resettable Fuse, 24 V
+FUSC4632X160N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MF-MSMF150_24X-2
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (MF-MSMF150/24X-2)
+~!Mouser Part Number (652-MF-MSMF150/24X-2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/MF-MSMF150-24X-2?qs=lpAV6hZbGAs42fzz5zPn3Q%3D%3D)
+~!Arrow Part Number (MF-MSMF150/24X-2)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mf-msmf15024x-2/bourns)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf)
+~!Height (1.6mm)
+~!3D_Model (MF-MSMF150_24X-2)
+MF-MSMF150_24X-2
+1.1!U 2.1!U 

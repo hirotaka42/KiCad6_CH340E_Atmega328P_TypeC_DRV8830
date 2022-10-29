@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPSD227M016R0200V"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-30-14:53:03)
+    (mountForm default
+        (footprintRef "CAPPM7344X310N")
+        (spec "System")
+    )
+)

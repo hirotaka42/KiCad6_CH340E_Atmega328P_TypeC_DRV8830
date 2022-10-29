@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PMEG10020ELRX'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PMEG10020ELRX" (!) = "", "SODFL3517X110N", "Small Outline Diode Flat Lead", "771-PMEG10020ELRX", "https://www.mouser.co.uk/ProductDetail/Nexperia/PMEG10020ELRX?qs=bel5lzaZNxQmrosujSY5VA%3D%3D", "PMEG10020ELRX", "https://www.arrow.com/en/products/pmeg10020elrx/nexperia", "", "", "Schottky Diodes & Rectifiers 2A Schottky Barrier Rectifier", "https://assets.nexperia.com/documents/data-sheet/PMEG10020ELR.pdf", "1.1 mm"
+END_PART
+
+END.

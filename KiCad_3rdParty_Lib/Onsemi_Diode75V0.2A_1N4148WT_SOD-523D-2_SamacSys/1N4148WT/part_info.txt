@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=1N4148WT
+PartCategory=Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.1
+Released=2018-02-04 17:11:56
+Downloaded=2022-10-29 12:52:22
+3D=Y

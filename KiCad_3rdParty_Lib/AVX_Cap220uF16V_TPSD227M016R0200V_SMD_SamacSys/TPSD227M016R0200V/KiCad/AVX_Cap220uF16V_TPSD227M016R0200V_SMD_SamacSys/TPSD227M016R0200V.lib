@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPSD227M016R0200V
+#/1579590/962286/2.49/2/3/Capacitor Polarised
+DEF TPSD227M016R0200V C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "TPSD227M016R0200V" 350 150 50 H V L CNN
+F2 "CAPPM7344X310N" 350 50 50 H I L CNN
+F3 "https://www.arrow.com/en/products/tpsd227m016r0200v/avx" 350 -50 50 H I L CNN
+F4 "Cap Tant Solid 220uF 16V D CASE 20% (7.3 X 4.3 X 2.9mm) Inward L SMD 7343-31 0.2 Ohm 125C T/R" 350 -150 50 H I L CNN "Description"
+F5 "3.1" 350 -250 50 H I L CNN "Height"
+F6 "AVX" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "TPSD227M016R0200V" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "581-TPSD227M016R200V" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/AVX/TPSD227M016R0200V?qs=gTYE2QTfZfTvWYg4wQxf2A%3D%3D" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "TPSD227M016R0200V" 350 -750 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tpsd227m016r0200v/avx" 350 -850 50 H I L CNN "Arrow Price/Stock"
+F12 "" 350 -950 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 350 -1050 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

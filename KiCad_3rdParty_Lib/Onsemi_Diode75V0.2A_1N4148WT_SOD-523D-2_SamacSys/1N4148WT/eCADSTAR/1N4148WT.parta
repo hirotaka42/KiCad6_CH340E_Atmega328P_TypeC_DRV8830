@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_968121"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-04-17:11:56)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "1N4148WT")
+)
+
+
+(pinAssign "ECS_968121"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-04-17:11:56)
+    (utime 2018-06-06-11:10:46)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_968121")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "1N4148WT")
+)
+
+
+(part "1N4148WT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-02-04-17:11:56)
+    (utime 2018-06-06-11:10:46)
+    (packageRef "1N4148WT")
+    (pinAssignRef "ECS_968121")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "ON SEMICONDUCTOR - 1N4148WT - DIODE, SWITCHING, 75V, SOD-523F-2")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "1N4148WT")
+    (property "Mouser_Part_Number" "512-1N4148WT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/1N4148WT?qs=2%2FYqgE%252BHg%252BJTXBWnIBbu3Q%3D%3D")
+    (property "Arrow_Part_Number" "1N4148WT")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/1n4148wt/on-semiconductor?region=nac")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/1N4148WT.pdf")
+    (property "compAreaTopHeight" 0.7)
+)
+
+

@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=MF-MSMF150/24X-2
+PartCategory=Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=1.1
+Released=2018-02-08 16:40:31
+Downloaded=2022-10-29 14:52:42
+3D=Y

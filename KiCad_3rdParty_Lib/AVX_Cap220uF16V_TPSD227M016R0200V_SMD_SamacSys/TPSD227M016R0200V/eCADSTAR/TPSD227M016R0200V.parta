@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_1579590"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-06-18-10:03:51)
+    (utime 2020-06-19-07:31:16)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "TPSD227M016R0200V")
+)
+
+
+(pinAssign "ECS_1579590"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-06-18-10:03:51)
+    (utime 2020-06-19-07:31:16)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1579590")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "TPSD227M016R0200V")
+)
+
+
+(part "TPSD227M016R0200V"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-06-18-10:03:51)
+    (utime 2020-06-19-07:31:16)
+    (packageRef "TPSD227M016R0200V")
+    (pinAssignRef "ECS_1579590")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Cap Tant Solid 220uF 16V D CASE 20% (7.3 X 4.3 X 2.9mm) Inward L SMD 7343-31 0.2 Ohm 125C T/R")
+    (property "Manufacturer_Name" "AVX")
+    (property "Manufacturer_Part_Number" "TPSD227M016R0200V")
+    (property "Mouser_Part_Number" "581-TPSD227M016R200V")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/AVX/TPSD227M016R0200V?qs=gTYE2QTfZfTvWYg4wQxf2A%3D%3D")
+    (property "Arrow_Part_Number" "TPSD227M016R0200V")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/tpsd227m016r0200v/avx")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.arrow.com/en/products/tpsd227m016r0200v/avx")
+    (property "compAreaTopHeight" 3.1)
+)
+
+

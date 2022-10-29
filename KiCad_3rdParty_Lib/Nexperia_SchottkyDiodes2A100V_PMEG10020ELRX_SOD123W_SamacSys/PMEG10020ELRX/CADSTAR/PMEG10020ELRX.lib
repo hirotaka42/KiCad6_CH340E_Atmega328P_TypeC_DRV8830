@@ -1,0 +1,20 @@
+.PMEG10020ELRX :1 ;Schottky Diodes & Rectifiers 2A Schottky Barrier Rectifier
+SODFL3517X110N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN PMEG10020ELRX
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PMEG10020ELRX)
+~!Mouser Part Number (771-PMEG10020ELRX)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PMEG10020ELRX?qs=bel5lzaZNxQmrosujSY5VA%3D%3D)
+~!Arrow Part Number (PMEG10020ELRX)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pmeg10020elrx/nexperia)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PMEG10020ELR.pdf)
+~!Height (1.1mm)
+~!3D_Model (PMEG10020ELRX)
+PMEG10020ELRX
+1.1!U 2.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MF_MSMF150_24X_2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "MF-MSMF150/24X-2" (!) = "", "FUSC4632X160N", "Fuses Chip", "652-MF-MSMF150/24X-2", "https://www.mouser.co.uk/ProductDetail/Bourns/MF-MSMF150-24X-2?qs=lpAV6hZbGAs42fzz5zPn3Q%3D%3D", "MF-MSMF150/24X-2", "https://www.arrow.com/en/products/mf-msmf15024x-2/bourns", "", "", "Bourns 1.5A Surface Mount Resettable Fuse, 24 V", "https://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf", "1.6 mm"
+END_PART
+
+END.
